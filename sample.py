@@ -6,7 +6,7 @@ my_name = "madhu sudhan rao"
 
 def my_function():
     "Disiplays my name."
-    print(my_name)
+    print(f"my name is {my_name}"
 
 
 def main():
